@@ -4,260 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3473318-6ce1-4a44-856b-5cee81ed27d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWithHarryCoreJavaToAdvanceJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accessexample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/A_1rrayListInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/A_2rrayListsStacksAndQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Q_4ueuesInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/S_3tacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/ArrayList_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/ArrayList_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/ArryList_3ReverseAnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/C_10ontainerWithMostWaterOnComplexity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/C_9ontainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/F_4indOutMaximumInArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/M_7ultiDimensionalArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/M_8ultiDimensionalArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/P_11airSum_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/P_12airSum_1ComplexityOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/P_13airSum_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/S_5wap2Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListByShradhaKhapra/S_6ortingAnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTwoPointerApproach/Two_Pointer_Approach_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTreesByShradhaKhapara/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTreesByShradhaKhapara/PrintInRange3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTreesByShradhaKhapara/SearchaBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeByShradhaKhapara/BinaryTreesYT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeByShradhaKhapara/preOrderTraversal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C4onstructorsInharitance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/HashMapImplementation10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/Hash_1_Set_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/Isomorphic_String12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/Largest_subarray_with_0_sum_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/LinkedHashMap7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/LinkedHashSet4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/ListInterfaceExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/Main9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/MapInterfaceExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/MaxFreq10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/MaxNumbers_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/QueueInterfaceExamples2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/SetInterfaceExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/TreeMap8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/TreeSetExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/Two_Sum13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/Valid_Anagram11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramWorkByCollegeWallah/longest_consecutive_elements_sequence16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCollegeWallah/basicsll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCollegeWallah/doublyLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCollegeWallah/implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCollegeWallah/reverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCpllegeWallah/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCpllegeWallah/StudentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCpllegeWallah/arrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListByCpllegeWallah/fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListBySharadhhaKhapara/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListBySharadhhaKhapara/LinkedList_2_AddInMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListBySharadhhaKhapara/size_3_ofALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListInterviewQuestionCollegeWallaha/canWeDeleteAnodeGivenTheNodeitselfAsParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListInterviewQuestionCollegeWallaha/nthNodeFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O7nlineLibraryExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/A_1rrayUsingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/A_2rrayUsingCircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/D_10eque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/I_8nterleave_2_HalvesOfAQueueEvenLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/N_7onRepeatingLatterInStreamOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/Q_12ueueUsingDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/Q_3ueueUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/Q_4ueueUsingJavaCollectionFrameWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/Q_5ueueUsing_2_Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/Q_9ueueReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/S_11tackAndQueueUsingDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueBySharadhaKhapra/S_6tackusing_2_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S6olutionAndShortcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/B_3alancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/D_2uplicateBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/D_8uplicateParenthesesByShradhakhapara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/MaxAreaInHistogram_Sharadha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/N_5extGreaterElementonTheRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/R_6ightSideGraterElementShradhKhapara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/STACK_KO_REVISION_KARKE_SABHI_CONCEPTCLEARKARNAHAI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/S_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/S_1tacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/S_9tockSpanPrepCoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/V_7alidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/graterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/M_5aximumAreaInHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/R_6eveseA_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/S_7tockSpanProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/SlidingWindowTechnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/SlidingWindowTechnique_VariableType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/StackB_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/StackB_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/StackB_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/StackB_4pushBottomOfTheStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksBySharddhaKhapara/StackB_5ReverseAStringUsingStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrayByShradhaKhapra/M_1atrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrayByShradhaKhapra/d_3iagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrayByShradhaKhapra/d_4iagonalSumTimeComplexityOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrayByShradhaKhapra/s_2piralMaxtrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDArrayByShradhaKhapra/s_5earchInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_9bstractClassAndMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifireExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calc/problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/A38rrayListInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/A41rrayDequeInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/C19reatingACustomPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/C37ollectionsHierarchyInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/D27emoSyntaxRuntimeLogicalError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/E26rrorAndException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/F34inallyBlockInJavaAndWhyIsItNeeded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/F39ileHandlingInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/H29andlingSpecificExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/J23avaThreadPriorties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/J24avaThreadMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/J36avaExercise6CustomCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/L40inkedListInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/N30estedTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/P35racticeSet14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Q31uickQuize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/T28rycatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/T32heExceptionClassInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/T33hrowVsThrowsInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/a18ccessmodifire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/c17reatingPackages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/c20reatingAThreadByExtendingThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/c21reatingAJavaThreadUsingrunnableInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/c22onstructorFromThreadclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/p25practiceSetChapter13th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/this.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6ynamicMethoddispath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e16ercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_8xercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/folder/folderl1/folderl2/problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/folder/folderl1/folderl2/problem4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i11nterfacesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i12nheritanceInInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i_10nterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m5ethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p13olymorphismInInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p14racticeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p15ractics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/ArraySortedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Benjamin_27_Bulbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/BinarySearchInTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/BinarySearchInTheArrayUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/C2allingMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Digitsof_18Anumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/GCDand_23_LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Inverse_21_ofaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/P_7racticemultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/R_6ecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Reverse_20_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Rotate_22_aNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/T2woDArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/V_5ariableArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/arrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/c_13onvertCelsiusToforenHight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/conditionalstatementPractices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/countDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/f_10ibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/fibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/loopcontrolnstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/m1ethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/m3ethodoverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/m4ethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/maximumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/minimumArrayPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/p1repcoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/p_11rintStarPatternUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/p_12ractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/p_8racticeStrarPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/p_9racticeRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/primeB_WmidNumberNtak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/primeNumberNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/prime_24_factorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/primrNumberTimeComplexity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/pythagoren_25_Triplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/pythagoren_26_Triplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/reverseArrayP_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/java/sortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/A_1rraysLecture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/A_2rraySMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/A_3rraysSpanofanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/B_5arChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/D_6ifferenceOftwoArraysHimself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/D_7ifferenceofTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/F_4indElementinAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/R_8everseAnArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/RotateTheGivenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingDSA_Array/S_5umOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/decimalToanyBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/fun2DigitsFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/fun2_1decitoanybase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/fun3_AnyBasetoDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/fun4_AnyBasetoAnyBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/fun5_AnybaseAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/fun6_AnybaseSubtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/func7_AnyBaseMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingFunction/function1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingOfdsaPractice/pattern9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/C_13ompresaionString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/F_12irstWordIsUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/P_10rintLargestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/P_8ermutationsOfaString_IterativeSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/R_5emovePrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/S_11tringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/S_1tring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/S_3tringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/S_4tringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/S_7tringWithASCIIdifferenceOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/S_9hortestPathToReachdestination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/T_6oggleCaseofCharactersInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepcodingString/p_2rintAllPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this5super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+    <list default="true" id="d3473318-6ce1-4a44-856b-5cee81ed27d7" name="Changes" comment="final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/i_10nterfaces.java" root0="SKIP_INSPECTION" />
@@ -390,6 +139,17 @@
       <updated>1679112762081</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
